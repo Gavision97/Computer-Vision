@@ -1,0 +1,8 @@
+
+path: '/content/Computer-Vision/Object Detection Projects/Face Detection using YOLOV8/data'
+train: 'images/train'
+val: 'images/val'
+
+# Classes:
+names:
+0: Face
