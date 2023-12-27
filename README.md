@@ -1,5 +1,8 @@
 # Computer Vision Portfolio
 
+![cv](https://github.com/Gavision97/Computer-Vision/assets/150701079/c45d21d1-3526-49bb-ad64-faec9f70609d)
+
+
 Welcome to my Computer Vision Portfolio repository! Here, I showcase my exploration and hands-on experience in various subfields of computer vision. Each subfield is represented by a dedicated folder, housing projects that highlight my skills, creativity, and understanding of different aspects of computer vision.
 
 ## Subfields
